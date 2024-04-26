@@ -1,5 +1,5 @@
 FROM ubuntu:16.04
-MAINTAINER lsiouffey@kgi.edu
+MAINTAINER despinosa@kgi.edu
 
 # Install prerequisites
 RUN apt update && \
